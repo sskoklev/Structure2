@@ -10,3 +10,6 @@ $scriptName = $MyInvocation.MyCommand.Name
 . .\ExecuteApplySCCMRequirements.ps1 # $scriptPath 
 
 
+# edited to test GIT folders
+
+
