@@ -8,6 +8,7 @@
 # Desc:   Assigns an account replicate directory changes permission in AD
 #         This is required by SharePoint 2013 to support User profiles synchronisation
 # SS: test
+# SS: test2
 #################################################################################################
 Set-Location -Path $scriptPath 
 
