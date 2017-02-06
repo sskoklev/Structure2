@@ -1,3 +1,5 @@
 sample123456
 
 new line was locally added
+
+line 2
