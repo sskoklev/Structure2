@@ -9,7 +9,7 @@
 #         This is required by SharePoint 2013 to support User profiles synchronisation
 # SS: test
 # SS: test2
-# SS: added 3 line for multiple conflicts
+# SS: added 3 line for multiple conflicts --this time its multi conflict
 #################################################################################################
 Set-Location -Path $scriptPath 
 
