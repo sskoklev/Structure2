@@ -10,6 +10,7 @@
 # SS: test
 # SS: test2
 # SS: added 3 line for multiple conflicts --this time its multi conflict
+# SS: local chg conflict 3
 #################################################################################################
 Set-Location -Path $scriptPath 
 

@@ -3,3 +3,5 @@ sample123456 xyz
 new line was locally added
 
 line 2
+
+local change #3
