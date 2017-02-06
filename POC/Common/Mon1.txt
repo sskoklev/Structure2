@@ -1,4 +1,4 @@
-sample123456 xyz number 3 svr
+sample123456 xyz number 3 svr - conflict 4 server
 
 new line was locally added
 
