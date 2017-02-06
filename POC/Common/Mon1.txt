@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-sample123456 xyz number 3 svr - local conflict 4 - conflict 4 server
+sample123456 KDiff3 local
 
 
 new line was locally added
