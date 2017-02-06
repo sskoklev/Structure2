@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-sample123456 KDiff3 local
+first line changed on Local
 
 
 new line was locally added
