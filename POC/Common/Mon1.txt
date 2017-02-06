@@ -1,4 +1,5 @@
-first line changed on Local
+First line changed on server
+sample123456 xyz number 3 svr - local conflict 4 - conflict 4 server
 
 
 new line was locally added
