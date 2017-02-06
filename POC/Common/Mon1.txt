@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-sample123456 KDiff3 server
+First line changed on server
 
 
 new line was locally added
