@@ -4,7 +4,7 @@
 )
 
 #################################################################################################
-# Author: Marina Krynina and some local
+# Author: Marina Krynina and some local and others server
 # Desc:   Assigns an account replicate directory changes permission in AD
 #         This is required by SharePoint 2013 to support User profiles synchronisation
 # SS: test
